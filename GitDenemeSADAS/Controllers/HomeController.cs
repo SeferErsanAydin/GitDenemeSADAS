@@ -8,6 +8,7 @@ namespace GitDenemeSADAS.Controllers
 {
     public class HomeController : Controller
     {
+        //deneme bacım
         public ActionResult Index()
         {
             return View();
